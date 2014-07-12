@@ -1,0 +1,28 @@
+body{margin: 0px;padding:0px;font:100% "Helvetica Neue",Helvetica,Arial,sans-serif;}
+#header {
+    height: auto;
+	background:#efefef;
+}
+.header{font-size: 50px;color:#a4c739;
+      text-shadow: 10px 10px 10px ;
+}
+h1{font-size: 50px;}
+i{font-size: 20px;margin-left:50px;color:#444444;}
+a{text-decoration:none;}
+#footer a{text-decoration:none;color:#4c4c4c;}
+#footer a:hover{color:black;}
+p{font-size:20px;}
+#header h1,b{display:inline;}
+input:hover{background:#b2d857;border:2px solid #4c4c4c;}
+input:focus{background:#b2d857;border:2px solid #4c4c4c;}
+i{margin-left:5%;}
+#header fieldset{float:right;margin-top:-40px;margin-right:2%;height:22px;border:1px solid #4c4c4c;}
+#slide{width:40%;height:370px;float:left;margin-left:1%;}
+#slide table{width:100%;}
+#frame{border:5px groove #444444;}
+#frame ul li{list-style-type:none;padding:5px;color:#3b3b3b;}
+.w {font-size:30px;text-align:center;color:#a4c739;}
+#reg{float:right;margin-top:-40px;width: 30%}
+#slide,#reg{display:inline-block;}
+#footer{clear:both;padding:15px;text-align:center;}
+
